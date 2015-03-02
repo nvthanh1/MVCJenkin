@@ -15,7 +15,7 @@ namespace MVCJenkins
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
-            BundlfafeConfig.RegisterBundles(BundleTable.Bundles);
+            BundlConfig.RegisterBundles(BundleTable.Bundles);
         }
     }
 }
